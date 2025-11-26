@@ -1,11 +1,5 @@
 # SecureAuth: Solusi Autentikasi Modern (Android & Kotlin Compose)
 
-<p align="center">
-  <a href="https://github.com/Theseadev/SecureAuth">
-    <img src="ScreenshootAplikasi/logo.png" alt="SecureAuth Logo" width="150">
-  </a>
-</p>
-
 [![Status Build](https://img.shields.io/badge/Build-Passing-brightgreen?style=flat-square)](https://github.com/Theseadev/SecureAuth/actions)
 [![Lisensi](https://img.shields.io/github/license/Theseadev/SecureAuth?style=flat-square)](LICENSE)
 [![Versi](https://img.shields.io/badge/Version-1.0.0-blue?style=flat-square)](#)
@@ -22,13 +16,19 @@
 * **Pengaturan Keamanan:** Mengelola profil & opsi keamanan pengguna.
 
 ## 🖼️ Tampilan Aplikasi
+🌞 Light Mode
+| Login                                                                                                                                                              | Register                                                                                                                                                              | Home                                                                                                                                                              | Security                                                                                                                                                              | Settings                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://raw.githubusercontent.com/Theseadev/SecureAuth/master/ScreenshootAplikasi/LoginScreen.jpeg" height="220" width="120" style="object-fit:cover;"/> | <img src="https://raw.githubusercontent.com/Theseadev/SecureAuth/master/ScreenshootAplikasi/RegisterScreen.jpeg" height="220" width="120" style="object-fit:cover;"/> | <img src="https://raw.githubusercontent.com/Theseadev/SecureAuth/master/ScreenshootAplikasi/HomeScreen.jpeg" height="220" width="120" style="object-fit:cover;"/> | <img src="https://raw.githubusercontent.com/Theseadev/SecureAuth/master/ScreenshootAplikasi/SecurityScreen.jpeg" height="220" width="120" style="object-fit:cover;"/> | <img src="https://raw.githubusercontent.com/Theseadev/SecureAuth/master/ScreenshootAplikasi/SettingsScreen.jpeg" height="220" width="120" style="object-fit:cover;"/> |
 
-| Modul/Halaman | Deskripsi | Tampilan |
-| :---: | :--- | :---: |
-| **Halaman Login** | Autentikasi pengguna | ![](ScreenshootAplikasi/login.png) |
-| **Otentikasi Biometrik** | Prompt sidik jari | ![](ScreenshootAplikasi/biometric.png) |
-| **Dashboard/Home** | Beranda utama | ![](ScreenshootAplikasi/dashboard.png) |
-| **Pengaturan Akun** | Opsi profil & keamanan | ![](ScreenshootAplikasi/settings.png) |
+
+🌙 Dark Mode
+| Login                                                                                                                                                                        | Register                                                                                                                                                                        | Home                                                                                                                                                                        | Security                                                                                                                                                                        | Settings                                                                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://raw.githubusercontent.com/Theseadev/SecureAuth/master/ScreenshootAplikasi/LoginScreen(DarkMode).jpeg" height="220" width="120" style="object-fit:cover;"/> | <img src="https://raw.githubusercontent.com/Theseadev/SecureAuth/master/ScreenshootAplikasi/RegisterScreen(DarkMode).jpeg" height="220" width="120" style="object-fit:cover;"/> | <img src="https://raw.githubusercontent.com/Theseadev/SecureAuth/master/ScreenshootAplikasi/HomeScreen(DarkMode).jpeg" height="220" width="120" style="object-fit:cover;"/> | <img src="https://raw.githubusercontent.com/Theseadev/SecureAuth/master/ScreenshootAplikasi/SecurityScreen(DarkMode).jpeg" height="220" width="120" style="object-fit:cover;"/> | <img src="https://raw.githubusercontent.com/Theseadev/SecureAuth/master/ScreenshootAplikasi/SettingsScreen(DarkMode).jpeg" height="220" width="120" style="object-fit:cover;"/> |
+
+
+
 
 ## 📂 Struktur Direktori
 
